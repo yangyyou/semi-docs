@@ -157,6 +157,9 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
+    slimsearch:{
+      indexContent: false
+    }
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
