@@ -13,8 +13,8 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "半导体知识文档",
+      description: "半导体知识文档",
     },
   },
 

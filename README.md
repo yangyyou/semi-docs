@@ -1,2 +1,3 @@
-# yang-docs
-个人学习资料
+# SEMI-docs
+
+SEMI资料库
